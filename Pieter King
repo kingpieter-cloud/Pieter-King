@@ -1,0 +1,7 @@
+# create project with Vite (React + JSX)
+npm create vite@latest pieter-king-site -- --template react
+cd pieter-king-site
+
+# install dependencies
+npm install
+
